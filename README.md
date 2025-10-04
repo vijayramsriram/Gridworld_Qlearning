@@ -272,8 +272,8 @@ The project includes comprehensive visualizations:
 
 ## 👥 Authors
 
-[Teja Vishnu Vardhan Boddu]
 Vijayramsriram Sathananthan
+Teja Vishnu Vardhan Boddu
 
 
 ---
